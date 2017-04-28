@@ -1,1 +1,1 @@
-this is a file named mkdir.c
+this is HOYJ_study/git-study1
